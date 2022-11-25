@@ -1,0 +1,23 @@
+{
+  "name": "puppeteer-starter-code",
+  "version": "1.0.0",
+  "description": "starter code for any puppeteer project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desertsniper87/puppeteer-typescript-starter.git"
+  },
+  "author": "desertsniper87",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/desertsniper87/puppeteer-typescript-starter/issues"
+  },
+  "homepage": "https://github.com/desertsniper87/puppeteer-typescript-starter#readme",
+  "dependencies": {
+    "puppeteer": "^19.3.0"
+  }
+}
